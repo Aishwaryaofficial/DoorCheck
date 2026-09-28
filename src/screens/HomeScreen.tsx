@@ -254,6 +254,8 @@ const HomeScreen = () => {
 
         <Pressable
           onPress={onRefresh}
+          accessibilityRole="button"
+          accessibilityLabel="Check again"
           style={({pressed}) => [styles.cta, pressed && styles.pressed]}>
           <Animated.Text style={[styles.ctaText, {transform: [{rotate}]}]}>
             ↻  Check again
@@ -276,6 +278,8 @@ const CityChip = ({
 }) => (
   <Pressable
     onPress={onPress}
+    accessibilityRole="button"
+    accessibilityLabel={label}
     style={[styles.chip, active && styles.chipOn]}>
     <Text style={[styles.chipText, active && styles.chipTextOn]}>{label}</Text>
   </Pressable>

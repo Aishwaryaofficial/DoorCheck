@@ -15,6 +15,23 @@
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="docs/screenshots/banner.png" alt="DoorCheck WAIT and GO" width="100%" />
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/home.png" alt="Delhi — WAIT" width="220" />
+  <img src="docs/screenshots/london.png" alt="London — GO" width="220" />
+</p>
+
+| 🟠 WAIT | 🟢 GO |
+|:-:|:-:|
+| Delhi demo pin · AQI 117 | London demo pin · AQI 31 |
+
+---
+
 ## ✨ What you get
 
 | Bit | What it does |
