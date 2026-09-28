@@ -86,8 +86,8 @@ Copy `src/assets/logo.png` into:
 ## 🚀 Run it
 
 ```bash
-git clone https://github.com/teqgrid/door-check.git
-cd door-check
+git clone https://github.com/Aishwaryaofficial/DoorCheck.git
+cd DoorCheck
 npm install
 
 bundle install
